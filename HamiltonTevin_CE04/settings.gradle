@@ -1,0 +1,2 @@
+rootProject.name='HamiltonTevin_CE04'
+include ':app'
